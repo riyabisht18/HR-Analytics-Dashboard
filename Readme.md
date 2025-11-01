@@ -47,5 +47,6 @@ The summary view is divided into three main sections: Overview, Demographics, an
 
 Allows filtering based on any column (using arrows in Tableau).
 
-![Image Alt](). 
+![Image Alt](https://github.com/riyabisht18/HR-Analytics-Dashboard/blob/380c666ab1657c8f7cc5fae9c45681da1506ceee/HR%20Dashboard%20(1).png). 
+
 
