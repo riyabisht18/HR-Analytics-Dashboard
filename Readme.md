@@ -15,42 +15,43 @@ The summary view is divided into three main sections: Overview, Demographics, an
 
  Overview
 
-  Shows total number of hired, active, and terminated employees.
-  
-  Visualizes hiring and termination trends over the years.
-  
-  Displays employee distribution by department and job title.
-  
-  Compares employees between Headquarters (New York) and Branches.
-  
-  Shows employee distribution by city and state.
+        > Shows total number of hired, active, and terminated employees.
+          
+        >  Visualizes hiring and termination trends over the years.
+          
+        >   Displays employee distribution by department and job title.
+          
+        >   Compares employees between Headquarters (New York) and Branches.
+          
+        >  Shows employee distribution by city and state.
 ____________________________________________________________________________________________________________________________________________________________________
  
  **Demographics**
 ____________________________________________________________________________________________________________________________________________________________________
-  Displays gender ratio across the company.
-  
-  Shows employee distribution by age groups and education levels.
-  
-  Presents the correlation between education and performance rating.
+        >    Displays gender ratio across the company.
+          
+        >   Shows employee distribution by age groups and education levels.
+          
+        >   Presents the correlation between education and performance rating.
 ____________________________________________________________________________________________________________________________________________________________________
 
  **Income Analysis**
 ____________________________________________________________________________________________________________________________________________________________________
-  Compares salary by education level for both genders.
-  
-  Shows how age correlates with salary across departments.
+        >    Compares salary by education level for both genders.
+          
+        >   Shows how age correlates with salary across departments.
 ____________________________________________________________________________________________________________________________________________________________________
 
 **2. Employee Records View**
 ____________________________________________________________________________________________________________________________________________________________________
-  Displays a detailed list of all employees with information such as:
-  
-  Name, Department, Position, Gender, Age, Education, and Salary.
+        >     Displays a detailed list of all employees with information such as:
+                  
+        >    Name, Department, Position, Gender, Age, Education, and Salary.
 ____________________________________________________________________________________________________________________________________________________________________
-Allows filtering based on any column (using arrows in Tableau).
+
 
 ![Image Alt](https://github.com/riyabisht18/HR-Analytics-Dashboard/blob/380c666ab1657c8f7cc5fae9c45681da1506ceee/HR%20Dashboard%20(1).png). 
+
 
 
 
