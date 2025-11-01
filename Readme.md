@@ -42,7 +42,9 @@ Shows how age correlates with salary across departments.
 2. Employee Records View
 
 Displays a detailed list of all employees with information such as:
+--- Name, Department, Position, Gender, Age, Education, and Salary.
 
 Name, Department, Position, Gender, Age, Education, and Salary.
+
 
 Allows filtering based on any column (using arrows in Tableau).
