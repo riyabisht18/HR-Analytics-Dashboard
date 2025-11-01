@@ -46,3 +46,6 @@ The summary view is divided into three main sections: Overview, Demographics, an
   Name, Department, Position, Gender, Age, Education, and Salary.
 
 Allows filtering based on any column (using arrows in Tableau).
+
+![Image Alt](). 
+
